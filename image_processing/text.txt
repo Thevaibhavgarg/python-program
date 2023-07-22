@@ -1,0 +1,30 @@
+OnIaAuRWNR
+
+#include<iostream>
+using namespace std;
+int main(){
+int a,b;
+cin>>a>>b;
+cout<<atb<<end1;
+return @;
+
+OnIaAuRWNR
+
+#include<iostream>
+using namespace std;
+int main(){
+int a,b;
+cin>>a>>b;
+cout<<atb<<end1;
+return @;
+
+OnIaAuRWNR
+
+#include<iostream>
+using namespace std;
+int main(){
+int a,b;
+cin>>a>>b;
+cout<<atb<<end1;
+return @;
+

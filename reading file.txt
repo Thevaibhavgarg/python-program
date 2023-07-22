@@ -1,0 +1,8 @@
+hii this is a files to show demos on reading lines.
+here is a program which read lines which is start by h.
+show here we put some sentences 
+stay home stay safe 
+cuz u all know that covid-19 is on its peek 
+show to protect yourself wear mask & keep social distacing.
+
+here we done finised the program all lines start with h are printed.
